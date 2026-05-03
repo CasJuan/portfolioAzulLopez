@@ -1,20 +1,13 @@
 import React from 'react'
 
-
-const heightMap = {
-    tall: "h-[480px] md:h-[640px]",
-    medium: "h-[420px] md:h-[520px]",
-    short: "h-[360px] md:h-[420px]",
-};
-
 export const ProjectCard = ({ project, onOpen, index }) => {
     return (
         <article
-            className="group break-inside-avoid mb-6 md:mb-8 cursor-pointer"
+            className="group flex flex-col h-full cursor-pointer"
             onClick={() => onOpen(project)}
         >
             <div
-                className={`relative overflow-hidden rounded-2xl bg-muted ${heightMap[project.span]} shadow-soft`}
+                className="relative overflow-hidden rounded-2xl bg-muted h-[300px] md:h-[380px] shrink-0 shadow-soft"
             >
                 <img
                     src={project.cover}
@@ -28,8 +21,8 @@ export const ProjectCard = ({ project, onOpen, index }) => {
                 </span>
             </div>
 
-            <div className="mt-5 flex items-start justify-between gap-6">
-                <div className="flex-1">
+            <div className="mt-5 flex flex-col flex-1 items-start justify-between gap-6">
+                <div className="flex-1 w-full">
                     <h3 className="font-display text-2xl md:text-[28px] text-ink leading-tight">
                         {project.title}
                     </h3>
