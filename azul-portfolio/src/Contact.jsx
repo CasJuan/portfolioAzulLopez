@@ -1,9 +1,9 @@
-import { Palette } from "lucide-react";
+import { Mail, Send } from "lucide-react";
 
 
 const links = [
-    { label: "Email", value: "lopez.azul.ag@gmail.com", href: "mailto:lopez.azul.ag@gmail.com", Icon: Palette },
-    { label: "LinkedIn", value: "/in/azul-agostina-lopez", href: "https://www.linkedin.com/in/azul-agostina-lopez/", Icon: Palette }
+    { label: "Email", value: "lopez.azul.ag@gmail.com", href: "mailto:lopez.azul.ag@gmail.com", Icon: Mail },
+    { label: "LinkedIn", value: "/in/azul-agostina-lopez", href: "https://www.linkedin.com/in/azul-agostina-lopez/", Icon: Send }
 ];
 
 export const Contact = () => {

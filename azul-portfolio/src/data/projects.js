@@ -34,7 +34,6 @@ import ilustraciones4 from "../img/Paterns e ilustraciones/IMG_1954.JPG"
 import knor from "../img/Knorr/Mockup revista 1.jpg"
 import knor1 from "../img/Knorr/Mockup revista 2.jpg"
 import knor2 from "../img/Knorr/Mockup revista cortado 1.jpg"
-import knor3 from "../img/Knorr/Mockup revista cortado 2.jpg"
 import knor4 from "../img/Knorr/mockup via publica colectivo.jpg"
 
 import paula from "../img/Paula/Paula 1.jpg"
@@ -61,74 +60,74 @@ import paula2 from "../img/Paula/paula 3.png"
 export const projects = [
     {
         id: "berry-bistro",
-        title: "Berry Bistro",
-        category: "Identidad de marca",
+        title: "Merchandising - Paula Scher ",
+        category: "Merchandising",
         description:
-            "Sistema de identidad visual para una marca de decoración con foco en lo artesanal y lo contemporáneo.",
+            "",
         cover: paula,
         span: "tall",
         context:
-            "Arte y Deco es una marca de objetos de decoración para el hogar que buscaba una identidad cálida y elegante, capaz de comunicar su esencia artesanal sin perder modernidad.",
+            "Paula Scher es una de las diseñadoras gráficas más influyentes del mundo, conocida por su estilo tipográfico fuerte, expresivo y muy urbano.",
         objective:
-            "Construir una identidad visual completa: logotipo, paleta, tipografías y aplicaciones que reflejen la sensibilidad estética de la marca.",
+            "Crear piezas de diseño que representen su estilo visual y recorrido, para dar a conocer su historia de una forma lúdica y expresiva.",
         solution:
-            "Una tipografía serif refinada combinada con un símbolo floral minimalista. La paleta blush y lavanda aporta calidez, mientras que el sistema de aplicaciones mantiene una atmósfera editorial y serena.",
+            "Un mapa ilustrado que traduce su estilo, referencias y lugares icónicos, incorporando elementos estridentes para reforzar su identidad visual.",
         gallery: [paula1, paula2],
     },
     {
         id: "berry-bistro",
-        title: "Berry Bistro",
-        category: "Identidad de marca",
+        title: "Branding – Berry Bistro",
+        category: "Branding ",
         description:
-            "Sistema de identidad visual para una marca de decoración con foco en lo artesanal y lo contemporáneo.",
+            "",
         cover: berryPortada,
         span: "tall",
         context:
-            "Arte y Deco es una marca de objetos de decoración para el hogar que buscaba una identidad cálida y elegante, capaz de comunicar su esencia artesanal sin perder modernidad.",
+            "Cafetería ubicada en Buenos Aires, inspirada en la Patagonia argentina tanto en sus sabores como en su ambientación.",
         objective:
-            "Construir una identidad visual completa: logotipo, paleta, tipografías y aplicaciones que reflejen la sensibilidad estética de la marca.",
+            "Crear una identidad visual que transmita la esencia de la Patagonia, resaltando lo natural, lo cálido y la experiencia del lugar.",
         solution:
-            "Una tipografía serif refinada combinada con un símbolo floral minimalista. La paleta blush y lavanda aporta calidez, mientras que el sistema de aplicaciones mantiene una atmósfera editorial y serena.",
+            "Sistema gráfico con paleta inspirada en la Patagonia, tipografías simples y elementos orgánicos que transmiten lo natural y la calidez del espacio.",
         gallery: [berryMarca1, berryMarca2, berryMarca3, berryMarca4],
     },
     {
         id: "stickers",
-        title: "Sistema visual / stickers",
-        category: "Ilustración aplicada",
+        title: "Branding – Vae / Arte y Deco ",
+        category: "Branding ",
         description:
-            "Pack de stickers ilustrados como extensión de la identidad de una marca lúdica.",
+            "",
         cover: vae,
         span: "medium",
         context:
-            "Extensión gráfica de una identidad existente a través de un pack de stickers que funcionara como merch coleccionable.",
+            "Estudio de arte y deco enfocado en piezas hechas a mano, donde lo artesanal, los materiales y el proceso son protagonistas.",
         objective:
-            "Crear un sistema de íconos e ilustraciones reconocibles, divertidos y coherentes entre sí.",
+            "Crear una identidad propia que homogeneice la marca más allá de los cuadros y las piezas en sí, unificando su esencia.",
         solution:
-            "Una serie de ilustraciones realizadas en Procreate, con paleta restringida y trazo consistente para construir una familia visual unificada.",
+            "Creación de un logo y sistema de elementos visuales inspirados en lo orgánico de la pintura, sin ser literal. Con una reminiscencia a una carta, algo delicado, hecho a mano y con sello, que representa tiempo y dedicación, logrando una identidad clara pero descontracturada.",
         gallery: [vae1, vae2, vae3],
     },
     {
         id: "editorial",
-        title: "Proyecto editorial",
-        category: "Diseño editorial",
+        title: "Diseño Publicitario – Bioworld",
+        category: "Diseño Publicitario",
         description:
-            "Diagramación y dirección de arte para una pieza editorial impresa con foco en la jerarquía tipográfica.",
+            "",
         cover: bioWord,
         span: "medium",
         context:
-            "Proyecto académico de diagramación editorial enfocado en la construcción de una grilla flexible y un sistema tipográfico coherente.",
+            "Bioworld es una marca de cuidado personal ecológico que propone cepillos de dientes como alternativa sustentable al plástico.",
         objective:
-            "Explorar la relación entre texto e imagen, generando un ritmo visual que invite a la lectura pausada.",
+            "Dar a conocer el producto y comunicar sus beneficios, destacando su enfoque sustentable.",
         solution:
-            "Una grilla amplia con generosos márgenes blancos, contrastes tipográficos sutiles y fotografía como elemento conductor entre páginas.",
+            "Se desarrollaron dos propuestas: una emocional, utilizando la imagen de un niño para simbolizar la vida y la importancia del cuidado del medio ambiente; y otra más directa, comparando dos realidades para evidenciar las consecuencias y el beneficio del producto.",
         gallery: [bioWord1, bioWord2, bioWord3, bioWord4],
     },
     {
         id: "social",
         title: "Diseño para redes sociales",
-        category: "Social media",
+        category: "Diseño Publicitario",
         description:
-            "Sistema visual para feed de Instagram con piezas modulares, flexibles y reconocibles.",
+            "",
         cover: millka,
         span: "short",
         context:
@@ -141,26 +140,26 @@ export const projects = [
     },
     {
         id: "social",
-        title: "Diseño para redes sociales",
-        category: "Social media",
+        title: "Diseño Publicitario – Knorr",
+        category: "Diseño Publicitario",
         description:
-            "Sistema visual para feed de Instagram con piezas modulares, flexibles y reconocibles.",
+            "",
         cover: knor,
         span: "short",
         context:
-            "Desarrollo de un kit de plantillas para una marca lifestyle que necesitaba consistencia visual en sus publicaciones.",
+            "Knorr es una marca de alimentos reconocida por sus productos prácticos para cocinar, que busca adaptarse a nuevas demandas incorporando mejores ingredientes y opciones más naturales.",
         objective:
-            "Diseñar piezas escalables que mantengan identidad sin volverse repetitivas.",
+            "Dar a conocer los nuevos sabores, comunicando la mejora en sus ingredientes y la reducción de conservantes.",
         solution:
-            "Una grilla modular con tres tipos de pieza, paleta limitada y sistema tipográfico flexible que permite adaptar contenidos sin perder coherencia.",
-        gallery: [knor1, knor2, knor3, knor4],
+            "Se desarrolló una campaña bajo el slogan “Lo bueno puede ser aún mejor”, mostrando situaciones cotidianas para apelar a los sentimientos del consumidor y generar identificación. Se refuerza la idea de que el producto es el mismo, pero mejorado, sin perder a los consumidores actuales de la marca.",
+        gallery: [knor1, knor2, knor4],
     },
     {
         id: "experimental",
         title: "Branding experimental",
         category: "Exploración visual",
         description:
-            "Exploración tipográfica y de composición a partir de motivos botánicos y capas translúcidas.",
+            "",
         cover: ilustraciones,
         span: "tall",
         context:
@@ -169,6 +168,6 @@ export const projects = [
             "Investigar nuevos lenguajes visuales fuera del encargo, alimentando la práctica creativa personal.",
         solution:
             "Composiciones layered donde las palabras se diluyen en imágenes, jugando con escala, opacidad y respiración del espacio.",
-        gallery: [ilustraciones1, ilustraciones2, ilustraciones3, ilustraciones4],
+        gallery: [ilustraciones1, ilustraciones, ilustraciones3, ilustraciones4],
     },
 ];
