@@ -124,18 +124,18 @@ export const projects = [
     },
     {
         id: "social",
-        title: "Diseño para redes sociales",
+        title: "Diseño Publicitario - Milka",
         category: "Diseño Publicitario",
         description:
             "",
         cover: millka,
         span: "short",
         context:
-            "Desarrollo de un kit de plantillas para una marca lifestyle que necesitaba consistencia visual en sus publicaciones.",
+            "Milka es una marca reconocida de chocolates que busca ampliar su propuesta con opciones más livianas, manteniendo su sabor característico.",
         objective:
-            "Diseñar piezas escalables que mantengan identidad sin volverse repetitivas.",
+            "Dar a conocer Milka Leger, destacando su propuesta más liviana sin perder el placer del chocolate.",
         solution:
-            "Una grilla modular con tres tipos de pieza, paleta limitada y sistema tipográfico flexible que permite adaptar contenidos sin perder coherencia.",
+            "Se desarrolló una campaña dirigida a adultos, principalmente mujeres, basada en el concepto de amor propio. Frente a las típicas campañas románticas, se buscó diferenciar desde este enfoque, resaltando el equilibrio entre placer y liviandad del producto. Se plantearon dos propuestas: una visual, más cotidiana, y otra únicamente tipográfica.",
         gallery: [millka1, millka],
     },
     {
@@ -156,18 +156,18 @@ export const projects = [
     },
     {
         id: "experimental",
-        title: "Branding experimental",
-        category: "Exploración visual",
+        title: "Ilustración - Pattern ",
+        category: "Ilustración",
         description:
             "",
         cover: ilustraciones,
         span: "tall",
         context:
-            "Ejercicio personal de exploración visual donde la tipografía dialoga con elementos fotográficos y orgánicos.",
+            "Proyecto de exploración gráfica centrado en el uso de patterns e ilustración aplicados a productos.",
         objective:
-            "Investigar nuevos lenguajes visuales fuera del encargo, alimentando la práctica creativa personal.",
+            "Desarrollar un sistema visual a partir de un elemento único, explorando su repetición y versatilidad en distintas aplicaciones.",
         solution:
-            "Composiciones layered donde las palabras se diluyen en imágenes, jugando con escala, opacidad y respiración del espacio.",
+            "Se creó un pattern a partir de un ícono único repetido, aplicado luego en el diseño de una botella y un cuaderno, generando una identidad visual coherente y adaptable.",
         gallery: [ilustraciones1, ilustraciones, ilustraciones3, ilustraciones4],
     },
 ];
