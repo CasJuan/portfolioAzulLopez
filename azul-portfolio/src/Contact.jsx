@@ -14,7 +14,7 @@ export const Contact = () => {
                     03 — Contacto
                 </p>
                 <h2 className="font-display text-4xl md:text-7xl text-ink tracking-tight mb-8 leading-[1]">
-                    En búsqueda de nuevos <em className="italic font-light text-lavender-deep">desafíos</em>.
+                    En búsqueda de nuevos <em className="italic font-light text-pink-deep">desafíos</em>.
                 </h2>
                 <p className="text-lg text-muted-foreground max-w-xl mx-auto mb-14">
                     Si tenés alguna propuesta o querés colaborar en un proyecto, escribime.

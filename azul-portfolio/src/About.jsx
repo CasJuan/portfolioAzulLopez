@@ -29,7 +29,7 @@ export const About = () => {
                         02 — Sobre mí
                     </p>
                     <h2 className="font-display text-4xl md:text-6xl text-ink tracking-tight mb-8">
-                        Ideas con <em className="italic font-light text-lavender-deep">intención</em>.
+                        Ideas con <em className="italic font-light text-pink-deep">intención</em>.
                     </h2>
                     <p className="text-base md:text-lg text-muted-foreground leading-relaxed mb-6">
                         Soy Azul, estudiante de Diseño Gráfico y técnica publicitaria.

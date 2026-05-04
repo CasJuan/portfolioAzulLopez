@@ -14,7 +14,7 @@ export const ProjectGrid = () => {
                             01 — Selección
                         </p>
                         <h2 className="font-display text-4xl md:text-6xl text-ink tracking-tight max-w-2xl">
-                            Proyectos <em className="italic font-light text-lavender-deep">recientes</em>
+                            Proyectos <em className="italic font-light text-pink-deep">recientes</em>
                         </h2>
                     </div>
                     <p className="md:text-left text-muted-foreground max-w-sm">

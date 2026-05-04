@@ -15,7 +15,7 @@ export const Hero = () => {
                         Portfolio · 2026
                     </p>
                     <h1 className="font-display font-medium text-ink leading-[0.95] tracking-tight text-[clamp(2.75rem,9vw,8.5rem)]">
-                        Azul <em className="font-light italic text-lavender-deep">López</em>
+                        Azul <em className="font-light italic text-pink-deep">López</em>
                     </h1>
                     <div className="mt-6 md:mt-10 flex flex-col md:flex-row md:items-end md:justify-between gap-8">
                         <div className="max-w-xl">
