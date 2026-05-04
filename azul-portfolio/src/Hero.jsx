@@ -32,13 +32,13 @@ export const Hero = () => {
                         <div className="flex flex-wrap gap-3 md:gap-4 md:shrink-0">
                             <a
                                 href="#proyectos"
-                                className="inline-flex items-center justify-center rounded-full bg-ink text-cream px-7 py-3.5 text-sm font-medium hover:bg-lavender-deep transition-smooth"
+                                className="inline-flex items-center justify-center rounded-full bg-transparent border border-ink/30 text-ink px-7 py-3.5 text-sm font-medium"
                             >
                                 Ver proyectos →
                             </a>
                             <a
                                 href="#contacto"
-                                className="inline-flex items-center justify-center rounded-full bg-transparent border border-ink/30 text-ink px-7 py-3.5 text-sm font-medium hover:bg-ink hover:text-cream transition-smooth"
+                                className="inline-flex items-center justify-center rounded-full bg-transparent border border-ink/30 text-ink px-7 py-3.5 text-sm font-medium"
                             >
                                 Contacto
                             </a>
